@@ -1,6 +1,6 @@
 # Temporal Knowledge Graph Reasoning via Global and Local Structure-Aware Segment-Evolutionary Representation Learning
 
-This is the released codes of the following paper submitted to TKDD:
+This is the released codes of the following paper submitted to TOIS:
 
 Feng Zhao, Kangzheng Liu, Xianzhi Wang, Guandong Xu. Temporal Knowledge Graph Reasoning via Global and Local Structure-Aware Segment-Evolutionary Representation Learning.
 
